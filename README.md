@@ -1,1 +1,1 @@
-Some describtion
+Some description
